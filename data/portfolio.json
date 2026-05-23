@@ -1,0 +1,114 @@
+{
+  "name": "Mihir Sharma",
+  "role": "Senior Full-Stack & Mobile Engineer",
+  "tagline": "A seasoned Senior Full-Stack and Mobile Engineer with 5+ years of experience, expertly crafting and deploying robust, high-performance web and cross-platform mobile applications.",
+  "about": "Consistently deliver high-performance, scalable digital solutions by expertly translating complex UI/UX designs across diverse industries. My experience encompasses real-time operational hospitality dashboards, corporate healthcare SaaS platforms, and premium luxury e-commerce experiences. I am adept at leveraging modern engineering standards to drive product quality, significantly reduce user churn, and enhance interface responsiveness.",
+  "experience": 5,
+  "currentRole": "Senior Software Engineer at Enterprise Technology Solutions Studio",
+  "highlights": [
+    "Architected, developed, and deployed robust full-stack web and cross-platform mobile applications.",
+    "Translated complex UI/UX designs into high-performance digital solutions.",
+    "Experience across real-time operational hospitality, corporate healthcare SaaS, and luxury e-commerce.",
+    "Adept at driving product quality, reducing user churn, and enhancing interface responsiveness.",
+    "Led an agile engineering squad of 4 developers creating customer-centric SaaS platforms and enterprise tools.",
+    "Standardized code governance pipelines and continuous deployment workflows, accelerating feature delivery by 25%."
+  ],
+  "skills": [
+    {
+      "name": "Languages & Frameworks",
+      "skills": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "React Native",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Databases & Real-time",
+      "skills": [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "WebSockets (Socket.io)",
+        "RESTful APIs",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Tools & DevOps",
+      "skills": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "AWS (S3, EC2)",
+        "Vercel",
+        "Expo",
+        "Firebase Suite",
+        "CI/CD Pipelines",
+        "Agile/Scrum"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Zenflow - Clinical Workflow & Provider Management Dashboard",
+      "description": "Architected and developed a comprehensive SaaS dashboard for healthcare provider management, significantly optimizing clinical workflow efficiency. Engineered a low-latency, dynamic weekly scheduling calendar grid, integrated secure operational metrics tables, modular analytics panels, and comprehensive client views to effectively monitor practitioner utilization.",
+      "tech": [
+        "React.js",
+        "TypeScript",
+        "Context API",
+        "Tailwind CSS",
+        "Date-fns",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Solitare - Premium Headless E-Commerce Jewelry Platform",
+      "description": "Developed a visually stunning and highly responsive headless e-commerce interface, enabling rich media interaction for a premium luxury jewelry catalog. Implemented advanced features including localized category filters, persistent client-side states, high-fidelity item grids, and seamless customer favorites/wishlist mechanics. Optimized modern asset delivery networks and lazy-loading techniques, achieving a 35% improvement in First Contentful Paint (FCP).",
+      "tech": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "GraphQL",
+        "Tailwind CSS",
+        "Shopify Storefront API"
+      ]
+    },
+    {
+      "name": "Pizza – Real-Time Hospitality Outlet Management Application",
+      "description": "Engineered a tablet-optimized, real-time outlet operations and layout management dashboard, specifically designed to minimize operational friction in high-volume dining environments. Developed an interactive live floor-plan manager with persistent state updates and automated alert systems. Established a centralized telemetry pipeline for key performance metrics, successfully lowering seating friction intervals by 18%.",
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express",
+        "Socket.io (WebSockets)",
+        "MongoDB",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Trinity – Personalized Mental Health & Wellness Mobile Application",
+      "description": "Designed and developed a user-centric cross-platform mobile application dedicated to mental well-being, behavioral habits, and telehealth access. Created a smooth, interactive daily mood journaling module, incorporating specialized feedback and micro-interactions that boosted user retention by 22%. Implemented encrypted synchronization endpoints to ensure secure user data transmission and streamline clinical consultation booking.",
+      "tech": [
+        "React Native",
+        "Expo",
+        "Redux Toolkit",
+        "Node.js",
+        "MongoDB",
+        "Firebase Authentication"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "mihir.sharma.dev@gmail.com",
+    "linkedin": "linkedin.com/in/mihir-sharma",
+    "github": "github.com/mihirsharma-dev"
+  }
+}
